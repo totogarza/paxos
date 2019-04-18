@@ -11,7 +11,7 @@ github_username:  totogarza
 markdown: kramdown
 theme: minima
 disqus:
-  shortname: http-paxos-home-blog
+  shortname: paxos
 plugins:
   - jekyll-feed
   - "disqus-for-jekyll"
