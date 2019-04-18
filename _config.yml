@@ -3,7 +3,7 @@ email: toto@tanoshii.me
 description: >- # this means to ignore newlines until "baseurl:"
   Fundador de Fabro Editores, programador full stack, amante de la lectura, escritura y el código.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://paxos.tanoshii.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: krutzner
 github_username:  totogarza
 
@@ -14,4 +14,3 @@ disqus:
   shortname: paxos
 plugins:
   - jekyll-feed
-  - "disqus-for-jekyll"
