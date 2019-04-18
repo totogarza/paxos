@@ -4,7 +4,7 @@ title: Sobre mi
 permalink: /sobre-mi/
 ---
 
-<p style="text-align:center;">
+<p>
 <img src="https://res.cloudinary.com/yipster/image/upload/v1542218942/IMG_20181031_094609_863_ybjpx1.jpg" alt="Roberto Garza" width="20%">
 </p>
 
