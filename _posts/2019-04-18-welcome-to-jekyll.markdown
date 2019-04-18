@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Presentación"
+date:   2019-04-18 10:46:31 -0600
+categories: perfil 
+---
+
+<p style="text-align:center;">
+<img src="https://res.cloudinary.com/yipster/image/upload/v1542218942/IMG_20181031_094609_863_ybjpx1.jpg" alt="Roberto Garza" width="20%">
+</p>
+
+Mi nombre es Roberto Garza, trabajo en una editorial (que yo mismo fundé), en esta empresa realizamos todo tipo de publicaciones que van desde libros impresos hasta aplicaciones móviles con diferentes cualidades dependiendo las necesidades de los clientes.
+
+En mi tiempo libre me gusta leer, escribir, programar, cultivar plantas e integrar la tecnología con esta última labor.
+
+Desde el 2014 he estado interesado en la __ciencia de datos__ y me he encaminado hacia esa área desde entonces y esta es la razón por la que he decidido ingresar a la carrera de __Ingeniería de Software__.
+
+Mi trabajo involucra mucho de programación desde apps móviles hasta herramientas internas para automatizar tareas o análisis de datos para tomar decisiones informadas y a través de los años uno se da cuenta de sus deficiencias y como cualquier individuo que desea mejorar, estas deficiencias deben ser atendidas y eliminadas. Es por esta razón que elegí ingresar a la __UnADM__. Al revisar la currícula de distintas escuelas [la de la UnADM](https://www.unadmexico.mx/images/descargables/MC_licenciatura/ING_DESARROLLO_SOFTWARE.pdf) fue la única que sentí más sólida y equilibrada además que atiende áreas que yo, en lo particular, necesito fortalecer.
+
+También debo mencionar que la modalidad en línea fue otro factor a favor pues para las personas que trabajamos nos brinda mucha flexibilidad.
