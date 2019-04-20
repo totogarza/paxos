@@ -1,0 +1,15 @@
+.center {
+    text-align: center;
+}
+
+.gray {
+    color: grey;
+}
+
+.small-text {
+    font-size: 12px;
+}
+
+.outline {
+    border: 1px solid #e2e2e2;
+}
