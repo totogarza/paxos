@@ -12,11 +12,15 @@
         {{content}}
         <p >{{ page.date | date_to_string }}, <a href="https://twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a></p>
     </div>
+
+    <br>
+    {% if site.disqus.shortname %}
+      {% include disqus.html %}
+    {% endif %}
+
 </body>
 
 
-{% if site.disqus.shortname %}
-  {% include disqus.html %}
-{% endif %}
+
 
 {% include footer.html %}
