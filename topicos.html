@@ -1,0 +1,22 @@
+---
+layout: main
+class: "archive"
+---
+
+<p style="margin-bottom:30px">
+    Vista por <a href="/archivo">fecha</a> | <strong>tópicos</strong> 
+</p>
+
+
+<ul>
+  {% for post in site.categories.static %}
+    <li>
+      <a name='08-09-2017' class='' href='{{ post.url }}'>
+        {{ post.title }}
+      </a>
+    </li>
+  {% endfor %}
+
+</ul>
+
+
