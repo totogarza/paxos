@@ -7,7 +7,7 @@ comments: true
 categories: basic
 ---
 
-![Nube de Palabras](https://res.cloudinary.com/dfhxsuwjv/image/upload/v1555779639/worldcloud_pnajhe.png)
+<img src="https://res.cloudinary.com/dfhxsuwjv/image/upload/v1555779639/worldcloud_pnajhe.png" alt="Nube de Palabras" width="100%">
 
 Me parece importante el enfoque que se hace en la estrategia y la planeación en el contexto de la realización de las actividades de estudio y es por ello que estos conceptos los considero muy relevantes además también considero que estas actividades van balanceadas con las normativas y la filosofía. 
 

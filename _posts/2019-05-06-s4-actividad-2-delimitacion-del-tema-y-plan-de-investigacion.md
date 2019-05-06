@@ -53,3 +53,8 @@ Que con ello se determine si es conveniente proceder al desarrollo de un sistema
 ## Justificación
 
 El desarrollo de un sistema como el que se menciona en este documento tiene un alto costo (tiempo y dinero) y por ello es importante hacer un análisis previo del problema y sus particularidades para así determinar si es viable y además brinda valor a la organización.
+
+# Plan de investigación
+
+<img src="https://res.cloudinary.com/dfhxsuwjv/image/upload/v1557175770/Plan_de_investigacio%CC%81n_kjpgq4.jpg" alt="Plan de investigación Página" class="outline" width="100%">
+
