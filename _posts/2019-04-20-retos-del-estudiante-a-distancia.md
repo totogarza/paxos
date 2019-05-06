@@ -4,6 +4,7 @@ title:  "Los retos de estudiar en línea"
 date:   2019-04-20 20:00:00 -0600
 categories: blog 
 comments: true
+categories: basic
 ---
 
 A primera vista la sola idea de estudiar en línea parecería algo fácil, incluso algunos lo toman como el camino con menos fricción y esta idea no podría estar más fuera de la realidad.

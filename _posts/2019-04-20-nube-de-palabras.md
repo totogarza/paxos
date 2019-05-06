@@ -4,6 +4,7 @@ title:  "Nube de palabras del modelo educativo UnADM"
 date:   2019-04-20 11:02:00 -0600
 categories: blog 
 comments: true
+categories: basic
 ---
 
 ![Nube de Palabras](https://res.cloudinary.com/dfhxsuwjv/image/upload/v1555779639/worldcloud_pnajhe.png)
