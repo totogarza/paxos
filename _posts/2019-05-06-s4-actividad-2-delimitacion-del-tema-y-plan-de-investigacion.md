@@ -8,10 +8,6 @@ categories: basic
 
 <br>
 
-### Tema
-
-Viabilidad de desarrollo de un sistema para la eficientización de la asignación de horarios a los docentes universitarios basándose en algoritmos de recomendación en _machine learning_
-
 ### Problema
 
 El desperdicio de tiempo en actividades no productivas es algo común en las instituciones académicas (y en cualquier otra), estas actividades, aunque necesarias, no son clave para la misión de una institución.
@@ -42,19 +38,43 @@ La intención es que la información entregada con la investigación sea base pa
 
 Que con ello se determine si es conveniente proceder al desarrollo de un sistema o no.
 
-## Objetivos específicos
+### Objetivos específicos
 
-- Entregar un reporte detallado de la problemática 
-- Concluir si una solución tecnológica para resolver el problema es viable y de que manera:
-    1. Automatización total
-    2. Recomendador
-- De ser viable (ya sea en alguna de las dos formas anteriormente mencionadas) determinar los posibles métodos, de _machine learning_, que pueden ser uilizados (esto con el objeto de sustentar la viabilidad del desarrollo)
+1. Entregar un reporte detallado de la problemática 
+2. Concluir si una solución tecnológica para resolver el problema es viable y de que manera:
+  - Automatización total
+  - Recomendador
+3. De ser viable (ya sea en alguna de las dos formas anteriormente mencionadas) determinar los posibles métodos, de _machine learning_, que pueden ser uilizados (esto con el objeto de sustentar la viabilidad del desarrollo)
 
-## Justificación
+### Justificación
 
-El desarrollo de un sistema como el que se menciona en este documento tiene un alto costo (tiempo y dinero) y por ello es importante hacer un análisis previo del problema y sus particularidades para así determinar si es viable y además brinda valor a la organización.
+El desarrollo de un sistema como el que se menciona en este documento tiene un alto costo (en tiempo y dinero) y por ello es importante hacer un análisis previo del problema y sus particularidades para así determinar si es viable y que la implementación del mismo sí generará un beneficio real medible traducido en tiempo y energia.
 
-# Plan de investigación
+Proceder a un desarrollo de este tipo no puede darse sin una investigación minuciosa del problema puesto que en muchas ocasiones la solución no tiene el resultado esperado y muy frecuentemente puede ser hasta excesivo, por ende se vuelve clave contar con hechos los cuales puedan ser analizados y con cuyos resultados pueda tomarse una decisión.
+
+La realización de una investigación de este tipo es importante puesto que estamos hablando de la posibilidad de optimizar a provechar mejor el tiempo de varios individuos y si es viable una soulución, con la tecnología sugerida, no debería echarse por tierra la posibilidad de desarrollarla.
+
+Por otro lado, si la viabilidad de desarrollo es nula o nada significativa esta investigación arrojará luz en cuanto a la problmática en sí misma y por con esta información valiosa que también podría servir para econtrar soluciones de otra índole.
+
+Por último, sí la solución es viable y tiene el potencial de brindar el beneficio deseado, nos dejará entender el problema desde otro punto de vista y con esto la posibilidad de expandir el proyecto hacia otras áreas con las mismas ineficiencias permitiendo a la institución optimizar sus tiempos no productivos a más productivos.
+
+<hr>
+
+### Plan de investigación
 
 <img src="https://res.cloudinary.com/dfhxsuwjv/image/upload/v1557175770/Plan_de_investigacio%CC%81n_kjpgq4.jpg" alt="Plan de investigación Página" class="outline" width="100%">
+
+<hr>
+
+### Reflexión
+
+Una parte primordial que me facilita este tipo de trabajos es que primero realizo un bosquejo de los temas que deseo tratar, sin juzgar, solo escribo (conceptos, ideas, párrafos, etc).
+
+Después, con base a lo anterior, desarrollo el tema (escribo más) y conforme va tomando forma voy dando un primer reacomodo de los textos. 
+
+Lo que trato de decir es que no trabajo de manera lineal pues esto es parte de lo que causa un bloqueo (al menos a mi) y es por ello que me funciona trabajar de manera no lineal; es una forma flexible de avanzar.
+
+Después viene una revisión de lo que he escrito y como nada queda bien a la primera edito, reacomodo (más), elimino y agrego. En esta etapa me surgen más ideas para complementar así que me dejo llevar por esto.
+
+De igual manera cuando creo mis planes procedo arrojando las actividades a realizar, no me importa el órden al comienzo solo que salgan de mi cabeza conforme me acuerdo de ellas, así una idea jala a la otra. Después reacomodo estas actividades y creo nuevas actividades hijas de las anteriores (donde sea necesario) ya que muchas veces lo que escribo es muy genérico.
 
