@@ -8,6 +8,14 @@ categories: basic
 
 <br>
 
+### Título de investigación
+
+Algoritmos de machine learning para la automatización de tareas administrativas en instituciones de educación superior
+
+### Tema de investigación
+
+Viabilidad de desarrollo de un sistema para la eficientización de la asignación de materias y horarios a los docentes universitarios basándose en algoritmos de recomendación en machine learning
+
 ### Problema
 
 El desperdicio de tiempo en actividades no productivas es algo común en las instituciones académicas (y en cualquier otra), estas actividades, aunque necesarias, no son clave para la misión de una institución.
@@ -57,6 +65,9 @@ La realización de una investigación de este tipo es importante puesto que esta
 Por otro lado, si la viabilidad de desarrollo es nula o nada significativa esta investigación arrojará luz en cuanto a la problmática en sí misma y por con esta información valiosa que también podría servir para econtrar soluciones de otra índole.
 
 Por último, sí la solución es viable y tiene el potencial de brindar el beneficio deseado, nos dejará entender el problema desde otro punto de vista y con esto la posibilidad de expandir el proyecto hacia otras áreas con las mismas ineficiencias permitiendo a la institución optimizar sus tiempos no productivos a más productivos.
+
+
+[Descargar en versión PDF](https://res.cloudinary.com/dfhxsuwjv/image/upload/v1557282476/Anteproyecto-v0.1_chhrfc.pdf)
 
 <hr>
 
