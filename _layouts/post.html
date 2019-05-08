@@ -13,7 +13,10 @@
         <p >{{ page.date | date_to_string }}, <a href="https://twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a></p>
         
         <br>
+
         {% if site.disqus.shortname %}
+        <hr>    
+        <br>
           {% include disqus.html %}
         {% endif %}
     </div>
