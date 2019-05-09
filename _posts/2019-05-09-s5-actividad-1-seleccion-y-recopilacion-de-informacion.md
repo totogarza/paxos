@@ -1,6 +1,6 @@
 ---
 layout: post
-title: S5 Actividad 1 Seleccion y recopilacion de informacion
+title: S5 Actividad 1 Selección y recopilación de información
 date: 2019-05-09 02:33 +0000
 categories: basic
 comments: true
