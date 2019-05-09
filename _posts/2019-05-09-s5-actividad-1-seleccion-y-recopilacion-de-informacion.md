@@ -6,7 +6,28 @@ categories: basic
 comments: true
 ---
 
-## Bibliografía
+### Buscadores confiables
+
+Click en la foto para ver en su tamaño original.
+
+<a href="https://res.cloudinary.com/dfhxsuwjv/image/upload/v1557439889/science-document-search-05_t7im7c.png" target="_blank">
+    <img src="https://res.cloudinary.com/dfhxsuwjv/image/upload/v1557439889/science-document-search-05_t7im7c.png" alt="Búsqueda de artículos científicos" class="outline" width="20%"> 
+</a>
+<a href="https://res.cloudinary.com/dfhxsuwjv/image/upload/v1557439889/science-document-search-04_rbcpvt.png" target="_blank">
+    <img src="https://res.cloudinary.com/dfhxsuwjv/image/upload/v1557439889/science-document-search-04_rbcpvt.png" alt="Búsqueda de artículos científicos" class="outline" width="20%"> 
+</a>
+<a href="https://res.cloudinary.com/dfhxsuwjv/image/upload/v1557439888/science-document-search_u7aghm.png" target="_blank">
+    <img src="https://res.cloudinary.com/dfhxsuwjv/image/upload/v1557439888/science-document-search_u7aghm.png" alt="Búsqueda de artículos científicos" class="outline" width="20%"> 
+</a>
+<a href="https://res.cloudinary.com/dfhxsuwjv/image/upload/v1557439888/science-document-search-02_e9fbhy.png" target="_blank">
+    <img src="https://res.cloudinary.com/dfhxsuwjv/image/upload/v1557439888/science-document-search-02_e9fbhy.png" alt="Búsqueda de artículos científicos" class="outline" width="20%"> 
+</a>
+<a href="https://res.cloudinary.com/dfhxsuwjv/image/upload/v1557439886/science-document-search-03_mb6un7.png" target="_blank">
+    <img src="https://res.cloudinary.com/dfhxsuwjv/image/upload/v1557439886/science-document-search-03_mb6un7.png" alt="Búsqueda de artículos científicos" class="outline" width="20%"> 
+</a>
+
+
+### Bibliografía
 
 AlJarrah, M., Atallah AlSawalqah, A., and Hamdan, S. (2017). Developing a course timetable system for academic departments using genetic algorithm. Jordanian Journal of Computers and Information
 Technology, 3:1.
