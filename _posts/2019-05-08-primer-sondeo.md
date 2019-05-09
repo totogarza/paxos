@@ -2,10 +2,8 @@
 layout: post
 title: Primer sondeo
 date: 2019-05-08 14:23 +0000
-comments: true
 categories: bitacora
 ---
-
 
 La asignación de materias a los docentes así como los horarios de estas tienen sus particularidades y es posible que sea muy variable entre instituciones, tanto privadas como públicas y mucho más aún entre países.
 
