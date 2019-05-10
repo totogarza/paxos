@@ -42,12 +42,12 @@ Así pues esta investigación pretende ahondar en el problema para enteder el ni
 
 ### Objetivo general
 
-Convencer a los responsables de que el sistema es viable informando sobre el beneficio, el cual  traduciría en más tiempo y energía _productiva_ la cual impactaría positivamente en el desempeño de la institución.
+Convencer a los responsables de que el sistema es viable informando sobre el beneficio, el cual  se traduciría en más tiempo y energía _productiva_ la cual impactaría positivamente en el desempeño de la institución.
 
 ### Objetivos específicos
 
-1. Reporte detallado de la problemática y las razones de su importancia en la productividad.
-2. Concluir sí la solución tecnológica es viable y de que manera (automatización total o recomendador)
+1. Reporte detallado de la problemática y el impacto negativo en la productividad.
+2. Concluir sí la solución tecnológica es viable mediante la automatización total o como recomendador de asignación.
 3. Modelo teórico de _machine learning_ para resolver la problemática.
 
 ### Justificación
