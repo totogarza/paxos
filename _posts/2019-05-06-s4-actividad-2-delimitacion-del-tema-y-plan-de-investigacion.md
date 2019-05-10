@@ -10,11 +10,11 @@ categories: basic
 
 ### Título de investigación
 
-Algoritmos de machine learning para la automatización de tareas administrativas en instituciones de educación superior
+Algoritmos de machine learning para la _automatización de tareas administrativas_ en instituciones de educación superior.
 
 ### Tema de investigación
 
-Viabilidad de desarrollo de un sistema para la eficientización de la asignación de materias y horarios a los docentes universitarios basándose en algoritmos de recomendación en machine learning
+Automatización de la asignación de materias y horarios a los docentes universitarios basándose en algoritmos de  __machine learning__.
 
 ### Problema
 
@@ -38,21 +38,17 @@ Es aquí donde las peculiaridades de la actividad nos "grita" por una solución 
 
 El software común no es de mucha ayuda aquí pues estos ya son utilizados actualmente y no permiten más que plasmar lo que ya se sabe, pero nosotros queremos que se nos eche la mano para reducir la fricción y por tanto el desperdicio de tiempo o de ser posible automatizar del todo la tarea.
 
+Así pues esta investigación pretende ahondar en el problema para enteder el nivel de complejidad del mismo y mediante los hallazgos __determinar la viabilidad de desarrollar un sistema__ que con base a procesos y tecnologías de inteligencia artificial puedan ayudar a resolver o mitigar el problema y/o automatizarlo en la medida de lo posible.
+
 ### Objetivo general
 
-Así pues esta investigación pretende ahondar en el problema para enteder el nivel de complejidad del mismo y mediante los hallazgos __ver la viabilidad de desarrollar un sistema__ que con base a procesos y tecnologías de inteligencia artificial puedan ayudar a resolver o mitigar el problema y/o automatizarlo en la medida de lo posible.
-
-La intención es que la información entregada con la investigación sea base para la posibilidad de desarrollo del sistema en un futuro, es decir, que __sirva de apoyo documental__ para los beneficiarios y que estos puedan tomar una desición informada con base a esta.
-
-Que con ello se determine si es conveniente proceder al desarrollo de un sistema o no.
+Convencer a los responsables de que el sistema es viable informando sobre el beneficio, el cual  traduciría en más tiempo y energía _productiva_ la cual impactaría positivamente en el desempeño de la institución.
 
 ### Objetivos específicos
 
-1. Entregar un reporte detallado de la problemática 
-2. Concluir si una solución tecnológica para resolver el problema es viable y de que manera:
-  - Automatización total
-  - Recomendador
-3. De ser viable (ya sea en alguna de las dos formas anteriormente mencionadas) determinar los posibles métodos, de _machine learning_, que pueden ser uilizados (esto con el objeto de sustentar la viabilidad del desarrollo)
+1. Reporte detallado de la problemática y las razones de su importancia en la productividad.
+2. Concluir sí la solución tecnológica es viable y de que manera (automatización total o recomendador)
+3. Modelo teórico de _machine learning_ para resolver la problemática.
 
 ### Justificación
 
