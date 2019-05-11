@@ -9,14 +9,14 @@
     <div class='pad2y limiter'>
         
         <h1>{{ page.title }}</h1>
+        <p ><span class="date-box">{{ page.date | date_to_string }}</span> </p>
+        <hr class="hr-gray">
         {{content}}
-        <p >{{ page.date | date_to_string }}, <a href="https://twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a></p>
-        
-        <br>
+        <p  style="text-align: right;">
+          <span><a href="https://twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a></span>
+        </p>
 
         {% if site.disqus.shortname %}
-        <hr>    
-        <br>
           {% include disqus.html %}
         {% endif %}
     </div>
