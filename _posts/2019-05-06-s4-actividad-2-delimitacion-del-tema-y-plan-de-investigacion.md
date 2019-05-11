@@ -6,8 +6,6 @@ comments: true
 categories: basic
 ---
 
-<br>
-
 ### Título de investigación
 
 Algoritmos de machine learning para la _automatización de tareas administrativas_ en instituciones de educación superior.
