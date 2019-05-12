@@ -56,4 +56,6 @@ http://www.pregrado.udg.mx/coordinadora-de-carrera
 
 https://www.uta.edu.ec/v3.2/uta/reglamentosinternos/coordinadorescarrera.pdf
 
+https://www.nottingham.ac.uk/research/groups/asap/?q=error
+
 https://www.academia.edu/5022647/15_PERFIL_Y_FUNCIONES_DEL_COORDINADOR_ACADEMICO
