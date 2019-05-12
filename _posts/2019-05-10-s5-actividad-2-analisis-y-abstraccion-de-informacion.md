@@ -43,3 +43,5 @@ Colorni, Alberto, Marco Dorigo, and Vittorio Maniezzo. 1994. “A Genetic Algori
 Gervás, Pablo, and Beatriz San. 2019. “Un Sistema Experto Basado En Reglas Para La Automatización deLa Elaboración de Horarios Para Un Conjunto de Restricciones Particulares,” May.
 
 Islam, Tanzila, Mohammad Anower Perves, Zunayed Shahriar, and Monirul Hasan. 2016. “UniversityTimetable Generator Using Tabu Search.”Journal of Computer and Communications4 (December): 28–37.https://doi.org/10.4236/jcc.2016.416003.2
+
+[Decargar en PDF](https://res.cloudinary.com/dfhxsuwjv/image/upload/v1557633658/marco-teorico_zr9fsf.pdf)
