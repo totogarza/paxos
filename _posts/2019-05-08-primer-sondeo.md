@@ -14,3 +14,11 @@ Algo extraño en esta institución en particular es que las materias son asignad
 En el caso de Estados Unidos esta situación está más controlada teniendo como resultado el mismo horario y el mismo docente periodo tras periodo.
 
 Así pues a las instituciones mexicanas, con el problema que aquí detallo, pudieran beneficiarse de un sistema para automatizar la tarea de asignación de materias-horarios.
+
+
+### Coordinador de carrera como persona clave para la investigación
+
+Para el problema que deseo tratar en mi investigación es necesario hablar con la persona o personas que generan los horarios cada semestre, no hay manera que pueda identificar todas las variables que toman en cuenta duduciéndoles. Así pues para poder proceder con mi investigación me es forzoso agendar una cita con una de estas personas puesto que estas son las únicas que me darán claridad sobre la complejidad real.
+
+La universidad esta seccionada en diferentes institutos y estos a sus vez en diferentes departamentos los cuales estan formados por varias carrerar de una misma área del conocimiento y cadad carrera a su vez tiene una coordinación.
+
