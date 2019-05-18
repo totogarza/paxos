@@ -3,6 +3,7 @@ layout: post
 title: S6 Actividad 1 Bitácora de investigación
 date: 2019-05-12 20:51 +0000
 categories: basic
+comments: true
 ---
 
 Sección de bitácora: [http://paxos.tanoshii.me/bitacora/](http://paxos.tanoshii.me/bitacora/)
