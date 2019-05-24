@@ -1,6 +1,6 @@
 ---
 layout: post
-title: S7 Actividad 2 Aplicacion de encuesta y analisis de resultados Pagina
+title: S7 Actividad 2 Aplicación de encuesta y análisis de resultados
 date: 2019-05-23 05:31 +0000
 categories: basic
 comments: true
