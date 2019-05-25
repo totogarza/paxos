@@ -6,6 +6,20 @@ categories: basic
 comments: true
 ---
 
+## Entrevistas con coordinadores 
+
+### No. 1
+
+[Descargar entrevista](https://res.cloudinary.com/dfhxsuwjv/image/upload/v1558157215/entrevistas-v1.0_bjhvtc.pdf)
+
+### No.2
+
+<audio controls>
+  <source src="https://res.cloudinary.com/dfhxsuwjv/video/upload/v1558810050/tanoshii/entrevista_compilada.mp3
+" type="audio/mpeg">
+Tu navegador no es compatible con elementos de audio.
+</audio>
+
 ## Guión
 
 ¿Cuáles son tus tareas más importantes como coordinador de carrera?
@@ -23,5 +37,3 @@ comments: true
 ¿Usarías una sistema que te ayude o  automatice por completo la tarea de asignar materias y horarios?
 
 ¿Qué otras tareas te gustaría automatizar para poder pasar más tiempo en las actividades de mayor valor para tu trabajo?
-
-[Descargar entrevistas de coordinadores de carrera.](https://res.cloudinary.com/dfhxsuwjv/image/upload/v1558157215/entrevistas-v1.0_bjhvtc.pdf)
