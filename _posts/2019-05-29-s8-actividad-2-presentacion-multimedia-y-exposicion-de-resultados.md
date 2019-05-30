@@ -11,7 +11,5 @@ comments: true
 
 <br>
 
-<video width="100%" height="400" poster="https://res.cloudinary.com/dfhxsuwjv/image/upload/v1559177035/tanoshii/v-thumb-presentacion-final.png" controls>
-    <source src="video.mp4" type="video/mp4">
-    </object>
-</video>
+
+<iframe width="100%" height="340" src="https://www.youtube.com/embed/lsEVFvGMdU0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
